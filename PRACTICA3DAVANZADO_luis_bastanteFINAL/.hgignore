@@ -1,0 +1,12 @@
+syntax: glob
+
+*.sdf
+*.suo
+*.user
+*.opensdf
+
+syntax: regexp
+
+ipch/*
+Debug/*
+Release/*
